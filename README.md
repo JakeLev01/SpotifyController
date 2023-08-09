@@ -6,4 +6,4 @@ The Spotify API connnects with custom serializers to constatnly refresh the stat
 
 ## Currently working on Deployment
 
-** Skills used/learned: Javascipt, React.js, Spotify API, Serializers, Django
+**Skills used/learned: Javascipt, React.js, Spotify API, Serializers, Django**
