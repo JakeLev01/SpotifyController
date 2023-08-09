@@ -4,6 +4,6 @@ If a user creates a room they will set commands and permissions, like votes to s
 
 The Spotify API connnects with custom serializers to constatnly refresh the status of music being played and display it on the frontend.
 
-## Currently working on Deployment
+### Currently working on Deployment
 
 **Skills used/learned: Javascipt, React.js, Spotify API, Serializers, Django**
